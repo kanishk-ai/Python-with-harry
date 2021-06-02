@@ -1,0 +1,44 @@
+import datetime
+ def helthMan(n):
+    if n==1:
+#         print("You want to see log 1.open or  2.edit")
+#         a = int(input())
+#         if a==1:
+#             f = open("kanishks.txt")
+#             v =   f.read()
+#             print(v)
+#         elif a==2:
+#             f = open("kanishks.txt","a")
+#             i1 = input("Enter the thing you want to add\n")
+#             f.write(datetime,i1)
+#             print("!!Succefully Add!!")
+#         else:
+#             print("Invalid")
+#     elif n==2:
+#         print("You want to see log 1.open or  2.edit")
+#         a = input()
+#         if a==1:
+#             f =  open("Sudis.txt")
+#             content = f.read()
+#             print(content)
+#
+#         elif a==2:
+#             f = open("Sudis.txt","a")
+#             i1 = input("Enter the thing you want to add\n")
+#             f.write(i1)
+#             print("!!Succefully Add!!")
+#         else:
+#             print("Invalid")
+# n = int(input("1 for Kansihk\n2 for Sudi\n3 for Mummy\n"))
+# helthMan(n)
+#
+# while(True):
+#     print("Do you Want To Run it Again")
+#     b = input()
+#     if b=="y":
+#         helthMan(n)
+#     else:
+#         print(" See you later ")
+#
+#
+#
